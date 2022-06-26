@@ -1,6 +1,3 @@
 ---
-roles:
-  - name: geerlingguy.nodejs
-
 collections:
   - community.general
