@@ -113,7 +113,7 @@
       Restart=always
       RestartSec=10
       WatchdogSec=60
-      User={{ ansible_user }}
+      User=root
 
       [Install]
       WantedBy=multi-user.target
